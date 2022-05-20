@@ -7,5 +7,6 @@ int main()
     cout<<"\nWhat is your Age..";
     cin>>nim;
     cout<<"YOu have entered "<<nim;
+    cout<<"Thank you every one/n";
     return 0;
 }
